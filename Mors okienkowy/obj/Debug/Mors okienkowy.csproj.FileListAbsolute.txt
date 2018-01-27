@@ -1,0 +1,20 @@
+L:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\bin\Debug\Mors okienkowy.exe.config
+L:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\obj\Debug\Mors okienkowy.csprojResolveAssemblyReference.cache
+L:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\obj\Debug\Mors_okienkowy.Form1.resources
+L:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\obj\Debug\Mors_okienkowy.Properties.Resources.resources
+L:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\obj\Debug\Mors okienkowy.csproj.GenerateResource.Cache
+L:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\bin\Debug\Mors okienkowy.exe
+L:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\bin\Debug\Mors okienkowy.pdb
+L:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\bin\Debug\NAudio.dll
+L:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\obj\Debug\Mors okienkowy.exe
+L:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\obj\Debug\Mors okienkowy.pdb
+F:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\bin\Debug\Mors okienkowy.exe.config
+F:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\obj\Debug\Mors okienkowy.exe
+F:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\obj\Debug\Mors okienkowy.pdb
+F:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\bin\Debug\Mors okienkowy.exe
+F:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\bin\Debug\Mors okienkowy.pdb
+F:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\bin\Debug\NAudio.dll
+F:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\obj\Debug\Mors okienkowy.csprojResolveAssemblyReference.cache
+F:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\obj\Debug\Mors_okienkowy.Form1.resources
+F:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\obj\Debug\Mors_okienkowy.Properties.Resources.resources
+F:\Kryptografia\Alfabet morsea\Mors okienkowy\Mors okienkowy\obj\Debug\Mors okienkowy.csproj.GenerateResource.Cache
